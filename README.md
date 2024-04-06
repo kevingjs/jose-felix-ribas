@@ -34,7 +34,7 @@
 
 - **Noticias**: Mantiene al tanto a los estudiantes y representantes de las últimas novedades de la institución.
 - **Galería**: Atractivo apartado de fotos 👍.
-- **Ubicación y contacto**: Contacta la institución a través de sus redes sociales, correo electrónico conoce su ubicación con Google Maps!.
+- **Ubicación y contacto**: Contacta la institución a través de sus redes sociales, correo electrónico y conoce su ubicación con Google Maps!.
 
 ### Captura de pantalla de la web de José Félix Ribas
 
