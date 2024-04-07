@@ -20,9 +20,10 @@
 <div align="center">
 
 ![vite-badge]
-![react-badge]
-![express-badge]
 ![mongodb-badge]
+![express-badge]
+![react-badge]
+![node-badge]
 
 <a href="https://github.com/kevingjs/jose-felix-ribas/issues">Report bug</a>
 ·
@@ -43,9 +44,10 @@
 ## 🛠️ Stack
 
 - [![Vite.js][vite-badge]][vite-url] - Next Generation Frontend Tooling.
-- [![React][react-badge]][react-url] - The library for web and native user interfaces.
-- [![Express][express-badge]][express-url] - Fast, unopinionated, minimalist web framework for Node.js.
 - [![MongoDB][mongodb-badge]][mongodb-url] - An open source NoSQL database management program.
+- [![Express][express-badge]][express-url] - Fast, unopinionated, minimalist web framework for Node.js.
+- [![React][react-badge]][react-url] - The library for web and native user interfaces.
+- [![Node.js][node-badge]][node-url] - A JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -54,7 +56,9 @@
 [express-url]: https://expressjs.com/
 [mongodb-url]: https://www.mongodb.com/
 [vite-url]: https://vitejs.dev/
+[node-url]: https://nodejs.org/
 [react-badge]: https://img.shields.io/badge/React-fff?style=for-the-badge&logo=react&logoColor=000&color=149eca
 [express-badge]: https://img.shields.io/badge/Express-fff?style=for-the-badge&logo=express&logoColor=fff&color=000
 [mongodb-badge]: https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=green&color=gray
+[node-badge]: https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=417e38&color=07090e
 [vite-badge]: https://img.shields.io/badge/Vite-000?style=for-the-badge&logo=vite&logoColor=ffc21a&color=bd34fe
